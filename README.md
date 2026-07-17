@@ -1,6 +1,6 @@
 # Hi, I'm Shaun
 
-I am a sales operator building practical AI workflows for B2B sales teams.
+I am a B2B sales professional building and testing practical AI workflows for modern sales teams.
 
 I explore how AI can improve research, call preparation, follow up and sales operations while keeping accuracy, privacy and human judgement in the loop.
 
