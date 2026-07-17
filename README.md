@@ -1,42 +1,35 @@
 # Hi, I'm Shaun
 
-I am a B2B sales professional building and testing practical AI workflows for modern sales teams.
+I work in B2B sales and use AI to make parts of the job quicker and easier.
 
-I explore how AI can improve research, call preparation, follow up and sales operations while keeping accuracy, privacy and human judgement in the loop.
+This is where I share things I have actually built and tested, including what worked, what did not and what I would change.
 
-## What I Am Building
+## What I Am Working On
 
-- Practical workflows for recurring sales problems
-- Reusable templates that salespeople can adapt
-- Simple tools for measuring time and capacity improvements
-- Honest examples that separate proven facts from assumptions
+Most of my projects start with something in sales that is repetitive, slow or easy to get wrong. I then see whether AI can help without making the process less accurate or less human.
 
-## Featured Work
+At the moment, I am looking at:
+
+- Research and call preparation
+- Follow up after calls
+- Opportunity handover
+- CRM administration
+- Measuring whether a workflow actually saves time
+
+## Featured Project
 
 ### [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows)
 
-A growing library of human led AI workflows for real B2B sales work.
+A collection of AI workflows for the everyday parts of B2B sales.
 
-The first workflow covers AI assisted call preparation, including a reusable call card, a fictional worked example and clear safeguards for responsible use.
+The first one is about preparing for sales calls. It includes the process, a template you can copy and an example showing how it works.
 
-## Current Focus
+## A Few Rules I Try to Follow
 
-- Pre call research and preparation
-- Post call actions and follow up
-- Opportunity handover
-- CRM and sales administration
-- Measuring whether an AI workflow creates genuine value
+- Start with a real problem
+- Check the facts
+- Keep a person responsible for the final decision
+- Do not put sensitive information into tools that are not approved
+- Measure whether the new way is actually better
 
-## Working Principles
-
-- **Useful beats impressive.** Start with a real problem.
-- **Evidence before invention.** Separate confirmed information from assumptions.
-- **Human judgement stays in the loop.** AI prepares, people decide.
-- **Protect sensitive information.** Use only approved data and tools.
-- **Measure the result.** Better workflows should save time or improve consistency.
-
-## Follow the Work
-
-I am building this collection in public and improving it through regular, practical updates.
-
-If you work in sales, revenue operations or AI adoption, you are welcome to explore the projects and suggest a workflow worth tackling next.
+I am learning as I go and sharing the useful bits here.
