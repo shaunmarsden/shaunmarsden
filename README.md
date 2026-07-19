@@ -1,8 +1,6 @@
 # Hi, I'm Shaun
 
-I work in B2B sales, currently on the AI upskilling team at AiCore, and use AI to make parts of the job quicker and easier, without making it less accurate or less human.
-
-This is a personal project, separate from that day job: things I have actually built and tested in my own time, including what worked, what did not, and what I would change.
+I work in B2B sales as a Solutions Consultant at AiCore, a UK apprenticeship provider helping companies upskill their teams in practical AI use. This is where I share the AI workflows I actually build and test for my own job, including what worked, what did not, and what I would change.
 
 ## Featured Project
 
