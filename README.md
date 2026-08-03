@@ -14,6 +14,16 @@ A working library of AI workflows for the everyday parts of B2B sales: preparing
 
 There's also a guide to setting up your own AI properly for sales work, whatever tool your company gives you access to, and a scored comparison of the same task run cold in Claude, ChatGPT and Gemini.
 
+## The Same Method, Applied Beyond Sales
+
+Once the sales workflows above were solid, the same standard, a real worked example with a deliberate hard case built in, an honest review checking whether it was actually caught, seemed worth generalising past sales.
+
+### [Sibling Projects](https://github.com/shaunmarsden/sibling-projects)
+
+Eighteen free tools, plus a router to help you find the right one, each one a pattern from the sales repo rebuilt for a wider audience: keeping facts and assumptions separate in any meeting write-up, building a scoring rubric for any AI output, checking whether a tracked status is actually supported by evidence, deciding what to send when someone has gone quiet, and more. [Not sure which one fits your situation? &rarr;](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md)
+
+Also experimenting with the same idea for commercial teams more broadly, still early: [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams), [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym), [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench), and [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop).
+
 ## What I'm Working On Next
 
 - Independent tests with salespeople who did not help build the repository
