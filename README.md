@@ -26,8 +26,11 @@ Also experimenting with the same idea for commercial teams more broadly, still e
 
 ## What I'm Working On Next
 
+See the [roadmap](ROADMAP.md) for the current picture across all of this, not just the sales repo. The short version:
+
 - Independent tests with salespeople who did not help build the repository
 - Suitable real cases for the three jobs that still lack a logged real-work test
+- Two more comparison types for Sales Proof Bench
 - Improvements earned from actual use, rather than adding more material for the sake of it
 
 ## A Few Rules I Try to Follow
