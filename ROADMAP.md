@@ -18,8 +18,7 @@ Nothing outstanding right now. The readability and adoption pass on 4 August 202
 
 ## Finish Bounded Work Already Justified
 
-- **Sales Conversation Gym's AI-plays-the-buyer mode** is still a roadmap line, not a built prompt. It is the one genuinely new mechanic the commercial-teams family adds beyond the sales repo (live rehearsal rather than document drafting), and worth finishing.
-- **Sales Value Workshop's next case** should be the enterprise or procurement-gated one already on its own roadmap. It tests a harder, more realistic "not yet" outcome than the two cases it has today, which is the right kind of addition, not just a renamed repeat.
+Nothing outstanding right now. Both items here have shipped: Sales Conversation Gym's AI-plays-the-buyer mode is now a built prompt (`guides/ai-plays-the-buyer.md`), the one genuinely new mechanic the commercial-teams family adds beyond the sales repo, and Sales Value Workshop's enterprise case tests a harder, distinct "not yet" outcome, a security and procurement gate rather than the existing case's missing-owner gap.
 
 ## Maintain
 
