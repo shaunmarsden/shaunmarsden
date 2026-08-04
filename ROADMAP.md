@@ -8,7 +8,6 @@ A portfolio-wide audit on 3 August 2026 confirmed 25 public source repositories,
 
 ## Make Existing Work Easier To Adopt
 
-- **Surface the interactive picker properly.** It is the easiest way for a non-technical visitor to find the right sibling tool, but it is currently linked only from inside ROUTER.md, not from the `sibling-projects` README or from any tool's own "Part of a Family" footer.
 - **Give every SKILL.md file the same short copy-and-paste instructions**: where to find the raw file, what to do with the front matter at the top, and a line making clear that nothing needs installing. Right now this is assumed knowledge across all eighteen sibling tools, the sales repo and `book-to-skill`.
 - **Cross-link the two sales clusters.** Practical AI Sales Workflows and the four commercial-teams repos currently do not link to each other in either direction. A visitor to one cannot discover the other without already knowing to look. This is the single cheapest, highest-value fix found in the audit.
 - **Replace the commercial-teams family's shared "Part of a Family" sentence** (currently one 60-word run-on sentence, identical in all four repos) with something that actually says which one to open first, and merge `ai-for-commercial-teams`'s two near-duplicate start tables (its README and `START-HERE.md` both list almost the same four routes).
