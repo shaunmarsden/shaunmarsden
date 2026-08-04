@@ -2,9 +2,9 @@
 
 One roadmap across everything here, rather than a separate one per repo. It covers three things: [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows), the [Sibling Projects](https://github.com/shaunmarsden/sibling-projects) family of eighteen generalised tools, and the commercial-teams family ([AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams), [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym), [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench), [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop)).
 
-Each repo keeps its own detailed roadmap where one exists. This page is the short version, organised by the kind of work each item actually is: making something already built easier to adopt, testing something that has not been tried by a real independent user yet, deepening something the evidence already supports, maintaining something that is in good shape as is, or exploring something genuinely new later.
+Each repo keeps its own detailed roadmap where one exists. This page is the short version, organised by the kind of work each item actually is: making something already built easier to adopt, testing something with no logged independent use yet, finishing bounded work already justified by its own scope, maintaining something that is in good shape as is, or exploring something genuinely new later.
 
-A portfolio-wide audit on 3 August 2026 confirmed 25 public repos, all active, none archived, and refreshed this page against what is actually in each one. A follow-up readability and adoption pass on 4 August 2026 looked specifically at whether a busy, non-technical salesperson can find, understand and try what is here, and added the findings below. Nothing on this page is a delivery date.
+A portfolio-wide audit on 3 August 2026 confirmed 25 public source repositories, none archived, all using `main` as their default branch, and refreshed this page against what is actually in each one. A follow-up readability and adoption pass on 4 August 2026 looked specifically at whether a busy, non-technical salesperson can find, understand and try what is here, and added the findings below. Nothing on this page is a delivery date.
 
 ## Make Existing Work Easier To Adopt
 
@@ -17,11 +17,11 @@ A portfolio-wide audit on 3 August 2026 confirmed 25 public repos, all active, n
 
 ## Test Existing Work
 
-- **Every repo in the portfolio is still waiting on its first independent, non-builder use.** The feedback form and Discussions link on the sales repo have not been used by anyone yet, and the same is true across all eighteen sibling tools and the whole commercial-teams family. That is a bigger gap right now than anything a new feature would close.
-- **Four Practical AI Sales Workflows jobs still lack a logged real-work test**, not three: handing over an opportunity, moving a stalled decision, and reviewing an outbound campaign have no real-use test logged at all; preparing for a sales call has been used live, but that use was never formally logged, so it does not belong in the same column as the twelve jobs that do have one.
+- **No repository in the portfolio currently has a logged independent, non-builder use.** The feedback form and Discussions link on the sales repo show no logged activity yet, and the same is true across all eighteen sibling tools and the whole commercial-teams family. That is a bigger gap right now than anything a new feature would close.
+- **Three Practical AI Sales Workflows jobs still have no recorded real use**: handing over an opportunity, moving a stalled decision, and reviewing an outbound campaign. Twelve jobs have a logged real-use test, and Prepare for a Sales Call has been used live but not formally logged, a middle category of its own rather than a fourth job with no real use.
 - **Before Sales Proof Bench adds its next comparison type**, it should acknowledge and build on the cross-model comparison Practical AI Sales Workflows already ran and scored, rather than repeat the same case type as if it were new ground.
 
-## Deepen Work The Evidence Already Supports
+## Finish Bounded Work Already Justified
 
 - **Sales Conversation Gym's AI-plays-the-buyer mode** is still a roadmap line, not a built prompt. It is the one genuinely new mechanic the commercial-teams family adds beyond the sales repo (live rehearsal rather than document drafting), and worth finishing.
 - **Sales Value Workshop's next case** should be the enterprise or procurement-gated one already on its own roadmap. It tests a harder, more realistic "not yet" outcome than the two cases it has today, which is the right kind of addition, not just a renamed repeat.
