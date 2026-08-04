@@ -6,17 +6,20 @@ I work in B2B sales as a Solutions Consultant at AiCore, a UK apprenticeship pro
 
 ### [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows)
 
-A working library of AI workflows for the everyday parts of B2B sales:
+A working library of AI workflows for the everyday parts of B2B sales, each with its own one-page recipe card:
 
-| Job | Job |
-| --- | --- |
-| Preparing for a call | Following up after one |
-| Building a business case | Briefing a champion |
-| Chasing a quiet prospect | Handling an objection |
-| Handing over an opportunity | Reviewing one that did not close |
-| Keeping a CRM honest | Finding a new prospect in the first place |
+- [Preparing for a call](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/prepare-for-a-sales-call.md)
+- [Following up after one](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/follow-up-after-a-sales-call.md)
+- [Building a business case](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/build-a-business-case.md)
+- [Briefing a champion](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/brief-your-champion.md)
+- [Chasing a quiet prospect](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/chase-a-quiet-prospect.md)
+- [Handling an objection](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/handle-an-objection.md)
+- [Handing over an opportunity](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/hand-over-an-opportunity.md)
+- [Reviewing one that did not close](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/review-a-lost-opportunity.md)
+- [Keeping a CRM honest](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/keep-your-crm-honest.md)
+- [Finding a new prospect in the first place](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/find-the-next-prospect.md)
 
-Every job has a one-page recipe card. The [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/EVIDENCE-STATUS.md) shows, job by job, whether it has a method, a skill, a fictional test, real use, or an independent test. That last column is the honest headline: no independent use has been logged for any of these yet, which is the single biggest gap across everything here.
+The [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/EVIDENCE-STATUS.md) shows, job by job, whether it has a method, a skill, a fictional test, real use, or an independent test. That last column is the honest headline: no independent use has been logged for any of these yet, which is the single biggest gap across everything here.
 
 **[Watch one actually work &rarr;](https://shaunmarsden.github.io/practical-ai-sales-workflows/)** shows a real skill turning a fictional call transcript into evidence-labelled output, live, with every line traced back to where it came from.
 
