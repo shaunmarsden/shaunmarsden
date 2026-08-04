@@ -6,32 +6,41 @@ I work in B2B sales as a Solutions Consultant at AiCore, a UK apprenticeship pro
 
 ### [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows)
 
-A working library of AI workflows for the everyday parts of B2B sales: preparing for a call, following up after one, building a business case, chasing a quiet prospect, handling an objection, handing over an opportunity, reviewing one that did not close, and finding a new prospect in the first place. Every job has a one-page recipe card, with an [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/EVIDENCE-STATUS.md) showing exactly what has a workflow, a skill, a fictional test, evidence from real use or an independent user test.
+A working library of AI workflows for the everyday parts of B2B sales:
+
+| Job | Job |
+| --- | --- |
+| Preparing for a call | Following up after one |
+| Building a business case | Briefing a champion |
+| Chasing a quiet prospect | Handling an objection |
+| Handing over an opportunity | Reviewing one that did not close |
+| Keeping a CRM honest | Finding a new prospect in the first place |
+
+Every job has a one-page recipe card. The [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/EVIDENCE-STATUS.md) shows, job by job, whether it has a method, a skill, a fictional test, real use, or an independent test. That last column is the honest headline: nobody outside this project has tried one of these yet, which is the single biggest gap across everything here.
 
 **[Watch one actually work &rarr;](https://shaunmarsden.github.io/practical-ai-sales-workflows/)** shows a real skill turning a fictional call transcript into evidence-labelled output, live, with every line traced back to where it came from.
 
-**[Follow one complete test &rarr;](https://github.com/shaunmarsden/practical-ai-sales-workflows#-see-one-complete-test)** goes from the fictional source transcript to the finished output and its honest scored review.
+Prefer to read it rather than watch it? [Follow the same example as a written walkthrough](https://github.com/shaunmarsden/practical-ai-sales-workflows#-see-one-complete-test) instead, from the fictional source transcript to the finished output and its honest scored review.
 
 There's also a guide to setting up your own AI properly for sales work, whatever tool your company gives you access to, and a scored comparison of the same task run cold in Claude, ChatGPT and Gemini.
 
 ## The Same Method, Applied Beyond Sales
 
-Once the sales workflows above were solid, the same standard, a real worked example with a deliberate hard case built in, an honest review checking whether it was actually caught, seemed worth generalising past sales.
+The same standard used above, a real worked example with a deliberate hard case built in and an honest review checking whether it was actually caught, is also applied in two further places.
 
 ### [Sibling Projects](https://github.com/shaunmarsden/sibling-projects)
 
-Eighteen free tools, plus a router to help you find the right one, each one a pattern from the sales repo rebuilt for a wider audience: keeping facts and assumptions separate in any meeting write-up, building a scoring rubric for any AI output, checking whether a tracked status is actually supported by evidence, deciding what to send when someone has gone quiet, and more. [Not sure which one fits your situation? &rarr;](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md)
+Eighteen free tools, each one a pattern from the sales repo rebuilt for a wider audience: keeping facts and assumptions separate in any meeting write-up, building a scoring rubric for any AI output, checking whether a tracked status is actually supported by evidence, deciding what to send when someone has gone quiet, and more.
+
+Not sure which one fits your situation? [Try the interactive picker &rarr;](https://shaunmarsden.github.io/sibling-projects/) or, if you'd rather paste a description into an AI chat, [use the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md).
+
+Building your own skill from scratch rather than picking one of these? [Book to Skill](https://github.com/shaunmarsden/book-to-skill) turns a book you already own into a Claude skill, and is one of the two patterns (alongside the sales workflows above) that the eighteen tools were generalised from.
 
 Also experimenting with the same idea for commercial teams more broadly, still early: [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams), [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym), [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench), and [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop).
 
 ## What I'm Working On Next
 
-See the [roadmap](ROADMAP.md) for the current picture across all of this, not just the sales repo. The short version:
-
-- Cross-linking the sales workflows repo and the commercial-teams family, which currently do not point to each other
-- Independent tests with salespeople who did not help build the repository
-- Suitable real cases for the three jobs that still lack a logged real-work test
-- Improvements earned from actual use, rather than adding more material for the sake of it
+See the [roadmap](ROADMAP.md) for the full picture across all of this, not just the sales repo. In short, the next stage is fewer assumptions, easier adoption, more real testing, and deeper work on what already exists, ahead of building anything new.
 
 ## A Few Rules I Try to Follow
 
