@@ -16,7 +16,7 @@ A working library of AI workflows for the everyday parts of B2B sales:
 | Handing over an opportunity | Reviewing one that did not close |
 | Keeping a CRM honest | Finding a new prospect in the first place |
 
-Every job has a one-page recipe card. The [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/EVIDENCE-STATUS.md) shows, job by job, whether it has a method, a skill, a fictional test, real use, or an independent test. That last column is the honest headline: nobody outside this project has tried one of these yet, which is the single biggest gap across everything here.
+Every job has a one-page recipe card. The [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/EVIDENCE-STATUS.md) shows, job by job, whether it has a method, a skill, a fictional test, real use, or an independent test. That last column is the honest headline: no independent use has been logged for any of these yet, which is the single biggest gap across everything here.
 
 **[Watch one actually work &rarr;](https://shaunmarsden.github.io/practical-ai-sales-workflows/)** shows a real skill turning a fictional call transcript into evidence-labelled output, live, with every line traced back to where it came from.
 
