@@ -8,7 +8,6 @@ A portfolio-wide audit on 3 August 2026 confirmed 25 public repos, all active, n
 
 ## Make Existing Work Easier To Adopt
 
-- **Fix `sibling-projects/ROUTER.md`.** Its "Common Confusions" section was replaced by a link to the new [interactive tool picker](https://shaunmarsden.github.io/sibling-projects/), but four other files still tell the reader to check "the confusions above" or "the confusions table", which no longer exists there. This is a real defect, not a style note: ROUTER.md is meant to be pasted whole into an AI chat, where the web picker cannot be seen.
 - **Surface the interactive picker properly.** It is the easiest way for a non-technical visitor to find the right sibling tool, but it is currently linked only from inside ROUTER.md, not from the `sibling-projects` README or from any tool's own "Part of a Family" footer.
 - **Give every SKILL.md file the same short copy-and-paste instructions**: where to find the raw file, what to do with the front matter at the top, and a line making clear that nothing needs installing. Right now this is assumed knowledge across all eighteen sibling tools, the sales repo and `book-to-skill`.
 - **Cross-link the two sales clusters.** Practical AI Sales Workflows and the four commercial-teams repos currently do not link to each other in either direction. A visitor to one cannot discover the other without already knowing to look. This is the single cheapest, highest-value fix found in the audit.
