@@ -8,7 +8,7 @@ A portfolio-wide audit on 3 August 2026 confirmed 25 public source repositories,
 
 ## Make Existing Work Easier To Adopt
 
-Nothing outstanding right now. The readability and adoption pass on 4 August 2026 found six specific fixes here (SKILL.md copy-paste instructions, the picker's visibility, the ROUTER.md regression, the commercial-teams cross-link, the two sibling-tool disambiguation notes, and the missing template file); all six have since shipped.
+Nothing outstanding right now. Two rounds have shipped: the readability and adoption pass on 4 August 2026 found six fixes (SKILL.md copy-paste instructions, the picker's visibility, the ROUTER.md regression, the commercial-teams cross-link, two sibling-tool disambiguation notes, and the missing template file), and a follow-up sweep across all eighteen sibling tools found and fixed three more naming-confused pairs (Skill Author and Book to Skill, Make the Case and Brief Your Advocate, What's Actually Causing This Delay and Post-Mortem Builder) plus a scope gap in the Sibling Projects picker itself, which only ever covered six of the eighteen tools without saying so, and left no way back to the rest when a visitor's situation was not one of those six.
 
 ## Test Existing Work
 
