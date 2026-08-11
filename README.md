@@ -1,8 +1,8 @@
 # Hi, I'm Shaun
 
-I work in B2B sales as a Solutions Consultant at AiCore, a UK apprenticeship provider helping companies upskill their teams in practical AI use. This is where I share the AI workflows I actually build and test for my own job, including what worked, what did not, and what I would change.
+I work in B2B sales as a Solutions Consultant at AiCore, a UK apprenticeship provider helping companies upskill their teams in practical AI use. This profile is where I share personal projects showing how AI can make everyday commercial work clearer, faster and easier to review. The examples are fictional or sanitised, and I share what worked, what did not, and what I would change.
 
-## Featured Project
+## Featured Projects
 
 ### [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows)
 
@@ -26,6 +26,10 @@ The [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-
 Prefer to read it rather than watch it? [Follow the same example as a written walkthrough](https://github.com/shaunmarsden/practical-ai-sales-workflows#-see-one-complete-test) instead, from the fictional source transcript to the finished output and its honest scored review.
 
 There's also a guide to setting up your own AI properly for sales work, whatever tool your company gives you access to, and a scored comparison of the same task run cold in Claude, ChatGPT and Gemini.
+
+### [Practical AI Adoption](https://github.com/shaunmarsden/practical-ai-adoption)
+
+Plain-English guides for people who want to use AI at work but do not have a technical background. It starts with a better brief and checking what comes back, then builds towards useful workflows.
 
 ## The Same Method, Applied Beyond Sales
 
