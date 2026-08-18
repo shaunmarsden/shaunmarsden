@@ -49,6 +49,10 @@ Also experimenting with the same idea for commercial teams more broadly, still e
 
 See the [roadmap](ROADMAP.md) for the full picture across all of this, not just the sales repo. In short, the next stage is fewer assumptions, easier adoption, more real testing, and deeper work on what already exists, ahead of building anything new.
 
+## Also Worth Knowing About
+
+Not mine, but genuinely useful: [Wispr Flow Media Pause](https://github.com/kierzio/wispr-flow-media-pause) pauses whatever you're playing instead of muting it while you dictate with Wispr Flow, built for USB audio interfaces macOS can't mute on its own. Small, but the kind of thing that's annoying every single time until someone fixes it.
+
 ## A Few Rules I Try to Follow
 
 - Start with a real problem, not a tool looking for a use case
