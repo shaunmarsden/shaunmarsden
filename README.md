@@ -53,6 +53,8 @@ See the [roadmap](ROADMAP.md) for the full picture across all of this, not just 
 
 Not mine, but genuinely useful: [Wispr Flow Media Pause](https://github.com/kierzio/wispr-flow-media-pause) pauses whatever you're playing instead of muting it while you dictate with Wispr Flow, built for USB audio interfaces macOS can't mute on its own. Small, but the kind of thing that's annoying every single time until someone fixes it.
 
+Also worth it if you dictate on macOS: [macos-mic-keepwarm](https://github.com/drewburchfield/macos-mic-keepwarm) fixes the 2-5 second push-to-talk activation delay by keeping the microphone hardware awake, so Wispr Flow, SuperWhisper and similar apps start listening instantly instead of eating the first half-second of what you say.
+
 ## A Few Rules I Try to Follow
 
 - Start with a real problem, not a tool looking for a use case
