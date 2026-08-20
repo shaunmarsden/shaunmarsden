@@ -55,6 +55,8 @@ Not mine, but genuinely useful: [Wispr Flow Media Pause](https://github.com/kier
 
 Also worth it if you dictate on macOS: [macos-mic-keepwarm](https://github.com/drewburchfield/macos-mic-keepwarm) fixes the 2-5 second push-to-talk activation delay by keeping the microphone hardware awake, so Wispr Flow, SuperWhisper and similar apps start listening instantly instead of eating the first half-second of what you say.
 
+Found via LinkedIn: [Premortem](https://gist.github.com/oscheers/9d722938ce35dab2a07832e69b688871), a Claude skill by Ollie Scheers. It assumes a project has already failed and works backwards to why, then sorts the causes into tigers (real risks that need an owner and a mitigation), paper tigers (risks that sound scary but do not deserve much attention) and elephants (the things people already suspect but nobody is saying out loud). Ends in owned actions and tripwires, not a longer list of things to worry about.
+
 ## A Few Rules I Try to Follow
 
 - Start with a real problem, not a tool looking for a use case
