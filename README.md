@@ -37,11 +37,11 @@ The same standard used above, a real worked example with a deliberate hard case 
 
 ### [Sibling Projects](https://github.com/shaunmarsden/sibling-projects)
 
-Eighteen free tools, each one a pattern from the sales repo rebuilt for a wider audience: keeping facts and assumptions separate in any meeting write-up, building a scoring rubric for any AI output, checking whether a tracked status is actually supported by evidence, deciding what to send when someone has gone quiet, and more.
+Nineteen free tools, most a pattern from the sales repo rebuilt for a wider audience: keeping facts and assumptions separate in any meeting write-up, building a scoring rubric for any AI output, checking whether a tracked status is actually supported by evidence, deciding what to send when someone has gone quiet, and more.
 
 Not sure which one fits your situation? [Try the interactive picker &rarr;](https://shaunmarsden.github.io/sibling-projects/) or, if you'd rather paste a description into an AI chat, [use the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md).
 
-Building your own skill from scratch rather than picking one of these? [Book to Skill](https://github.com/shaunmarsden/book-to-skill) turns a book you already own into a Claude skill, and is one of the two patterns (alongside the sales workflows above) that the eighteen tools were generalised from.
+Building your own skill from scratch rather than picking one of these? [Book to Skill](https://github.com/shaunmarsden/book-to-skill) turns a book you already own into a Claude skill, and is one of the two patterns (alongside the sales workflows above) that most of these tools were generalised from. The newest, [Do These Actually Match?](https://github.com/shaunmarsden/do-these-actually-match), instead generalises the Conflicting evidence label named directly in the sales repo's own methodology.
 
 Also experimenting with the same idea for commercial teams more broadly, still early: [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams), [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym), [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench), and [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop).
 
