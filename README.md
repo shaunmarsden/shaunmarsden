@@ -31,6 +31,10 @@ There's also a guide to setting up your own AI properly for sales work, whatever
 
 Plain-English guides for people who want to use AI at work but do not have a technical background. It starts with a better brief and checking what comes back, then builds towards useful workflows.
 
+### [Commercial Career Pivot Workbench](https://github.com/shaunmarsden/commercial-career-pivot-workbench)
+
+An evidence-checked career-pivot workflow for sales and commercial professionals.
+
 ## The Same Method, Applied Beyond Sales
 
 The same standard used above, a real worked example with a deliberate hard case built in and an honest review checking whether it was actually caught, is also applied in two further places.
