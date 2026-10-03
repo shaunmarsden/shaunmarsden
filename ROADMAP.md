@@ -21,7 +21,7 @@ A follow-up check across all eighteen sibling tools fixed three more pairs with 
 ## Test Existing Work
 
 - **No repository in the portfolio has a logged use by anyone but me yet.** The feedback form and Discussions link on the sales repo show no logged activity. The same is true across all nineteen sibling tools and the whole commercial-teams family. That gap matters more right now than anything a new feature would close.
-- **Only one Practical AI Sales Workflows job still has no recorded real use.** It's reviewing an outbound campaign. Fourteen jobs have a logged real-use test. One of those found a limit: it correctly stopped a stalled-decision case, rather than proving the method can move a buyer who really can't decide. Prepare for a Sales Call has been used live but not formally logged. That's a middle category of its own, not a second job with no real use.
+- **Every Practical AI Sales Workflows job now has at least an informal record of real use.** Reviewing an outbound campaign was the last job with no recorded real use; it now has a logged finding too. Sixteen jobs have a logged real-use test. One of those found a limit: it correctly stopped a stalled-decision case, rather than proving the method can move a buyer who really can't decide. Prepare for a Sales Call has been used live but not formally logged. That's a middle category of its own, not a job with no real use.
 - **Before Sales Proof Bench adds its next comparison type**, it should credit and build on the cross-model comparison Practical AI Sales Workflows already ran and scored, rather than repeat the same kind of case as if it were new.
 - **Practical AI Sales Workflows' approval-gated sales-copilot method still has no independent test.** [The guide, template, fictional test and evaluation](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/guides/build-an-approval-gated-sales-copilot.md) are public. There's also a live finding from my own use, with real details removed. I use a private version internally, but nobody independent has checked that private setup. The next useful evidence is an attempt by someone outside the project, not another finding of mine or more command modes.
 
@@ -36,7 +36,7 @@ Sales Value Workshop's enterprise case tests a harder, different "not yet" outco
 ## Maintain
 
 - Practical AI Sales Workflows' methodology, evidence matrix and governance docs are in good shape. They don't need more scope, only the real-work tests above.
-- The Sibling Projects router is accurate. All eighteen linked tools exist and match their descriptions, and this audit found no broken links.
+- The Sibling Projects router is accurate. All nineteen linked tools exist and match their descriptions, and this audit found no broken links.
 - Most of the nineteen sibling tools are complete and consistent as built. They need the fixes above that tell similar tools apart, and real use, not more building. The newest, Do These Actually Match?, hasn't had its own maintenance check yet.
 - `book-to-skill` is complete as built. Treat it as maintenance, not something to expand.
 
