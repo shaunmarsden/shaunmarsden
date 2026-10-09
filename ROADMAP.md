@@ -8,7 +8,7 @@ Each repo keeps its own detailed roadmap where it has one. This page is the shor
 
 On 3 August 2026 I checked the whole portfolio. It had 25 public source repositories, none archived, all with `main` as the default branch, and I updated this page to match what's in each one. On 4 August 2026 a follow-up pass asked whether a busy salesperson with no technical background can find, understand and try what's here. Its findings are below.
 
-I added two more repositories after that, Practical AI Adoption and Commercial Career Pivot Workbench. They weren't part of that count or the three-family description. The portfolio now has 28 public source repositories. Nothing on this page is a delivery date.
+I added two more repositories after that, outside the three-family description: Practical AI Adoption and Commercial Career Pivot Workbench. A third, Do These Actually Match, joined the Sibling Projects family later and is already counted in the nineteen tools above. None of the three were part of the 3 August count. The portfolio now has 28 public source repositories. Nothing on this page is a delivery date.
 
 ## Make Existing Work Easier To Adopt
 
