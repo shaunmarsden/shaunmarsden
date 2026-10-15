@@ -21,7 +21,7 @@ A library of AI workflows for the everyday parts of B2B sales, each with its own
 
 The [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/EVIDENCE-STATUS.md) shows, job by job, whether it has a method, a skill, a fictional test, real use or an independent test. The last column matters most. Nobody independent has logged using any of these yet, and that's the biggest gap across everything here.
 
-**[Watch one actually work &rarr;](https://shaunmarsden.github.io/practical-ai-sales-workflows/)** shows a real skill turning a fictional call transcript into evidence-labelled output, live. Every line traces back to where it came from.
+**[Watch a recorded run &rarr;](https://shaunmarsden.github.io/practical-ai-sales-workflows/)** replays a real skill turning a fictional call transcript into evidence-labelled output. Every line traces back to where it came from. It doesn't make a live AI call.
 
 Rather read than watch? [Follow the same example as a written walkthrough](https://github.com/shaunmarsden/practical-ai-sales-workflows#-see-one-complete-test), from the fictional transcript to the finished output and its scored review.
 
