@@ -2,28 +2,27 @@
 
 I work in B2B sales as a Solutions Consultant at AiCore, a UK apprenticeship provider that trains companies' teams to use AI in practical ways. Here I share personal projects that show how AI can make everyday commercial work clearer, faster and easier to check. The examples are fictional or have had real details removed. I share what worked, what didn't, and what I'd change.
 
-## Featured Projects
+## What Would Help You Today?
 
-### [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows)
+You don't need to code or install anything to try these. Pick the job you want help with.
 
-A library of AI workflows for the everyday parts of B2B sales, each with its own one-page recipe card:
-
-- [Preparing for a call](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/prepare-for-a-sales-call.md)
-- [Following up after one](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/follow-up-after-a-sales-call.md)
-- [Building a business case](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/build-a-business-case.md)
-- [Briefing a champion](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/brief-your-champion.md)
-- [Chasing a quiet prospect](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/chase-a-quiet-prospect.md)
-- [Handling an objection](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/handle-an-objection.md)
-- [Handing over an opportunity](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/hand-over-an-opportunity.md)
-- [Reviewing one that did not close](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/review-a-lost-opportunity.md)
-- [Keeping a CRM honest](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/keep-your-crm-honest.md)
-- [Finding a new prospect in the first place](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/recipes/find-the-next-prospect.md)
-
-The [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/EVIDENCE-STATUS.md) shows, job by job, whether it has a method, a skill, a fictional test, real use or an independent test. The last column matters most. Nobody independent has logged using any of these yet, and that's the biggest gap across everything here.
+| What you need | Start here |
+| --- | --- |
+| Help with a sales task | [Pick a sales job and copy the prompt](https://github.com/shaunmarsden/practical-ai-sales-workflows/tree/main/recipes) |
+| Help getting started with AI at work | [Try one ordinary task with your approved AI tool](https://github.com/shaunmarsden/practical-ai-adoption/blob/main/guides/you-have-been-given-ai-at-work.md) |
+| A tool for another everyday job | [Find a tool for meeting notes, lists, decisions and more](https://github.com/shaunmarsden/sibling-projects) |
 
 **[Watch a recorded run &rarr;](https://shaunmarsden.github.io/practical-ai-sales-workflows/)** replays a real skill turning a fictional call transcript into evidence-labelled output. Every line traces back to where it came from. It doesn't make a live AI call.
 
 Rather read than watch? [Follow the same example as a written walkthrough](https://github.com/shaunmarsden/practical-ai-sales-workflows#-see-one-complete-test), from the fictional transcript to the finished output and its scored review.
+
+## Featured Projects
+
+### [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows)
+
+A library of AI workflows for everyday B2B sales work, from preparing for a call to following up, handling objections and keeping a CRM honest. Each has a [one-page recipe card with a prompt you can copy](https://github.com/shaunmarsden/practical-ai-sales-workflows/tree/main/recipes).
+
+Available doesn't mean independently proven. The [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/EVIDENCE-STATUS.md) separates fictional tests, logged real use and independent tests. No independent use has been logged yet.
 
 There's also a guide to setting up your AI for sales work, whatever tool your company gives you, and a scored comparison of the same task run with no setup in Claude, ChatGPT and Gemini.
 
