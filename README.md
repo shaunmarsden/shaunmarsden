@@ -11,6 +11,7 @@ You don't need to code or install anything to try these. Pick the job you want h
 | Help with a sales task | [Pick a sales job and copy the prompt](https://github.com/shaunmarsden/practical-ai-sales-workflows/tree/main/recipes) |
 | Help getting started with AI at work | [Try one ordinary task with your approved AI tool](https://github.com/shaunmarsden/practical-ai-adoption/blob/main/guides/you-have-been-given-ai-at-work.md) |
 | A tool for another everyday job | [Find a tool for meeting notes, lists, decisions and more](https://github.com/shaunmarsden/sibling-projects) |
+| Plainer emails, notes, reports or posts | [Paste writing into a private checker, or use a skill](https://github.com/shaunmarsden/say-it-plainly) |
 
 **[Watch a recorded run &rarr;](https://shaunmarsden.github.io/practical-ai-sales-workflows/)** replays a real skill turning a fictional call transcript into evidence-labelled output. Every line traces back to where it came from. It doesn't make a live AI call.
 
@@ -29,6 +30,10 @@ There's also a guide to setting up your AI for sales work, whatever tool your co
 ### [Practical AI Adoption](https://github.com/shaunmarsden/practical-ai-adoption)
 
 Plain-English guides for people who want to use AI at work but don't have a technical background. They start with writing a better brief and checking what comes back, then build up to useful workflows.
+
+### [Say It Plainly](https://github.com/shaunmarsden/say-it-plainly)
+
+Five skills that make an AI tool review or rewrite your writing in plain words, for emails, meeting notes, reports and posts, plus a [private checker](https://shaunmarsden.github.io/say-it-plainly/) that runs in your browser and sends nothing anywhere. In my own small test, a rewrite kept a draft's claims better with a skill than with a bare request. A one-paragraph instruction did about as well as the skill.
 
 ### [Commercial Career Pivot Workbench](https://github.com/shaunmarsden/commercial-career-pivot-workbench)
 
