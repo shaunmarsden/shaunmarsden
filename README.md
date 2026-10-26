@@ -33,7 +33,7 @@ Plain-English guides for people who want to use AI at work but don't have a tech
 
 ### [Say It Plainly](https://github.com/shaunmarsden/say-it-plainly)
 
-Five skills that make an AI tool review or rewrite your writing in plain words, for emails, meeting notes, reports and posts, plus a [private checker](https://shaunmarsden.github.io/say-it-plainly/) that runs in your browser and sends nothing anywhere. In my own small test, a rewrite kept a draft's claims better with a skill than with a bare request. A one-paragraph instruction did about as well as the skill.
+Five skills that make an AI tool review or rewrite your writing in plain words, for emails, meeting notes, reports and posts, plus a [private checker](https://shaunmarsden.github.io/say-it-plainly/) that runs in your browser and sends nothing anywhere. In my own small tests, a one-paragraph instruction kept a draft's claims as well as a skill did, and better on call notes. A bare request did worst on emails and reports. I'd call the skills a first draft.
 
 ### [Commercial Career Pivot Workbench](https://github.com/shaunmarsden/commercial-career-pivot-workbench)
 
