@@ -12,6 +12,7 @@ You don't need to code or install anything to try these. Pick the job you want h
 | Help getting started with AI at work | [Try one ordinary task with your approved AI tool](https://github.com/shaunmarsden/practical-ai-adoption/blob/main/guides/you-have-been-given-ai-at-work.md) |
 | A tool for another everyday job | [Find a tool for meeting notes, lists, decisions and more](https://github.com/shaunmarsden/sibling-projects) |
 | Plainer emails, notes, reports or posts | [Paste writing into a private checker, or use a skill](https://github.com/shaunmarsden/say-it-plainly) |
+| Sorting job adverts against what you need | [Paste a skill into any AI chat, then your adverts](https://github.com/shaunmarsden/find-my-next-job) |
 
 **[Watch a recorded run &rarr;](https://shaunmarsden.github.io/practical-ai-sales-workflows/)** replays a real skill turning a fictional call transcript into evidence-labelled output. Every line traces back to where it came from. It doesn't make a live AI call.
 
@@ -38,6 +39,10 @@ Five skills that make an AI tool review or rewrite your writing in plain words, 
 ### [Commercial Career Pivot Workbench](https://github.com/shaunmarsden/commercial-career-pivot-workbench)
 
 A workflow for sales and commercial people thinking about a career change. It checks the evidence at each step.
+
+### [Find My Next Job](https://github.com/shaunmarsden/find-my-next-job)
+
+A skill for anyone looking for work, not just in sales. Paste it into any AI chat with your experience, your limits on hours, place and pay, and the adverts you've found. It sorts them into worth applying for, check one thing first, and skip, with links and reasons. In my small test with made-up jobseekers, it sorted 33 of 33 adverts correctly. Asked the same thing with no skill, the AI got 29 right, and kept suggesting a job below the pay the person said they needed.
 
 ## The Same Method, Applied Beyond Sales
 
