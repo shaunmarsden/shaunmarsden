@@ -45,7 +45,7 @@ A workflow for sales and commercial people thinking about a career change. It ch
 
 A skill for anyone looking for work, not just in sales. Paste it into any AI chat with your experience, your limits on hours, place and pay, and the adverts you've found. It sorts them into worth applying for, check one thing first, and skip, with links and reasons. In my small test with made-up jobseekers, it sorted 33 of 33 adverts correctly. Asked the same thing with no skill, the AI got 29 right, and kept suggesting a job below the pay the person said they needed.
 
-Its sibling, [Find Freelance Work](https://github.com/shaunmarsden/find-freelance-work), does the same for freelance projects: paste one in and it says apply, maybe, skip or unverified, against your skills, hours and minimum rate.
+Its sibling, [Find Freelance Work](https://github.com/shaunmarsden/find-freelance-work), does the same for freelance projects: paste one in and it says apply, maybe, skip or unverified, against your skills, hours and minimum rate. In my small test with made-up freelancers it sorted 33 of 33 projects correctly, and so did a five-line prompt you can copy instead.
 
 ## The Same Method, Applied Beyond Sales
 
