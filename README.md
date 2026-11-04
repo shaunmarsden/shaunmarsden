@@ -11,6 +11,7 @@ You don't need to code or install anything to try these. Pick the job you want h
 | Help with a sales task | [Pick a sales job and copy the prompt](https://github.com/shaunmarsden/practical-ai-sales-workflows/tree/main/recipes) |
 | Help getting started with AI at work | [Try one ordinary task with your approved AI tool](https://github.com/shaunmarsden/practical-ai-adoption/blob/main/guides/you-have-been-given-ai-at-work.md) |
 | A tool for another everyday job | [Find a tool for meeting notes, lists, decisions and more](https://github.com/shaunmarsden/sibling-projects) |
+| Checking whether tracker statuses match the notes | [Try Claims vs. Evidence Checker](https://github.com/shaunmarsden/claims-vs-evidence-checker) |
 | Plainer emails, notes, reports or posts | [Paste writing into a private checker, or use a skill](https://github.com/shaunmarsden/say-it-plainly) |
 | Sorting job adverts against what you need | [Paste a skill into any AI chat, then your adverts](https://github.com/shaunmarsden/find-my-next-job) |
 | Judging freelance projects before you apply | [Paste a skill into any AI chat, then the project](https://github.com/shaunmarsden/find-freelance-work) |
