@@ -20,6 +20,8 @@ You don't need to code or install anything to try these. Pick the job you want h
 
 ## Featured Projects
 
+**[Independent AI and Automation Portfolio](https://shaunmarsden.github.io/portfolio/).** Three Codex-assisted independent projects covering model evaluation, reliable local automation and a service-request workflow with approval controls. The case studies show executed test results, known failures and who did what. They do not claim production deployment, independent human validation or measured business ROI.
+
 **[Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows).** AI workflows for everyday B2B sales work, from call prep to follow-up, objections and keeping a CRM honest, each with a one-page recipe card. The [evidence-status matrix](https://github.com/shaunmarsden/practical-ai-sales-workflows/blob/main/EVIDENCE-STATUS.md) shows what has been tested and how. No independent use has been logged yet.
 
 **[Practical AI Adoption](https://github.com/shaunmarsden/practical-ai-adoption).** Plain-English guides for using AI at work without a technical background, starting with writing a better brief and checking what comes back.
